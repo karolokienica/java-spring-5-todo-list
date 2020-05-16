@@ -7,7 +7,6 @@ import java.time.LocalDate;
 
 @Data
 @EqualsAndHashCode(of = "id")
-//@EqualsAndHashCode(of = {"id", "title"}) // example
 public class TodoItem {
 
 //    == fields ==
